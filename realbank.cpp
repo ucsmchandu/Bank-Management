@@ -13,9 +13,9 @@
 #include <thread> // For std::this_thread::sleep_for
 #include <chrono> ///time
 using namespace std;
-const char *host = "localhost";
-const char *user = "root";
-const char *pass = "Chandu123!@#";
+const char *host = "#your localhost";
+const char *user = "#your root";
+const char *pass = "#your password";
 class bank
 {
 private:
